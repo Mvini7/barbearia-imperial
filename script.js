@@ -73,7 +73,7 @@ Aguardo confirmação. Obrigado!`
   const mensagemCodificada = encodeURIComponent(mensagem)
 
   // Número do WhatsApp da barbearia
-  const numeroWhatsApp = "5585984209226"
+  const numeroWhatsApp = "5511999999999"
 
   // Criar URL do WhatsApp
   const urlWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${mensagemCodificada}`
